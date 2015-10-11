@@ -65,7 +65,7 @@ class FullScreener{
     })
   }
   refresh(){
-    this.el = $("[data-fullscreener]");
+    this.els = $("[data-fullscreener]");
     this.setSizes();
   }
   listners(){
