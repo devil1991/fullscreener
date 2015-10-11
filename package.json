@@ -1,6 +1,6 @@
 {
   "name": "fullscreener",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Fullscreen anything with shit load of options",
   "main": "dist/index.js",
   "files": [
