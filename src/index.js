@@ -32,7 +32,7 @@ class FullScreener{
 
       // RATIOS for Offsets
       if(_cur.data().fullscreenoffset != null){
-        _offsetEls = _cur.data().fullscreenoffset.split(',');
+        let _offsetEls = _cur.data().fullscreenoffset.split(',');
         _offsetEls.map((index, _offsetEl)=>{
           _offsetEl = $(_offsetEl);
           let _offHeight = _offsetEl.height();

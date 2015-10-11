@@ -29,13 +29,13 @@ MIT © [Karan Nijhawan](http://github.com/devil1991)
 [npm-url]: https://npmjs.org/package/fullscreener
 [npm-image]: https://img.shields.io/npm/v/fullscreener.svg?style=flat-square
 
-[travis-url]: https://travis-ci.org//fullscreener
+[travis-url]: https://travis-ci.org/devil1991/fullscreener
 [travis-image]: https://img.shields.io/travis//fullscreener.svg?style=flat-square
 
-[coveralls-url]: https://coveralls.io/r//fullscreener
+[coveralls-url]: https://coveralls.io/r/devil1991/fullscreener
 [coveralls-image]: https://img.shields.io/coveralls//fullscreener.svg?style=flat-square
 
 [depstat-url]: https://david-dm.org//fullscreener
-[depstat-image]: https://david-dm.org//fullscreener.svg?style=flat-square
+[depstat-image]: https://david-dm.org/devil1991/fullscreener.svg?style=flat-square
 
 [download-badge]: http://img.shields.io/npm/dm/fullscreener.svg?style=flat-square
